@@ -1,2 +1,2 @@
 # Oxigeno
-Webapp que para red social de homemakers.
+App Principal para RedSocial (Comunidad), Contratistas y empresas Homemakkers.
